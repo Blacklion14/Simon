@@ -1,6 +1,8 @@
 # The Simon Game
 Use of Java Script and simple CSS to make a game called Simon.(yet not responsive)
 
+Test It Out : https://blacklion14.github.io/Simon/
+
 # How To Play :)
 
 1. Press any key to start.
