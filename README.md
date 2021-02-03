@@ -1,9 +1,10 @@
 # The Simon Game
 Use of Java Script and simple CSS to make a game called Simon.(yet not responsive)
 
-# How To Play :) <br>
+# How To Play :)
 
 1. Press any key to start.
+<br>
 <br>
 2. Focus and memorise the color flashed . (Let suppose red flashed.)
 <br>
